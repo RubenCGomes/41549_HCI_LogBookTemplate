@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![João Carvalho](personas/persona1.jpg)  
 **Name:** João Carvalho  
 **Age:** 18  
 **Occupation:**   College student
@@ -7,11 +7,11 @@
 ## Background  
 <!-- [Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.] -->
 
-João is from a small town in the center of Portugal where he is used to more of a traditional village lifestyle where people mostly know each other and all sorts of activities are easy to come by.
+João is from a small town in the center of Portugal, where he is used to more of a traditional village lifestyle, where people mostly know each other and all sorts of activities are easy to come by.
 
-Now he is in his first year living outside of his home, to pursue a degree in mathematics in Lisboa, after graduating from highschool in his home town. 
+Now he is in his first year living outside of his home to pursue a degree in mathematics in Lisboa after graduating from high school in his hometown.
 
-Besides his keen interest on mathematics and other academic interests he enjoys practicing sports such as volleyball and Biking.
+Besides his keen interest in mathematics and other academic interests, he enjoys practicing sports such as volleyball and biking.
 
 ## Daily Life  
 <!-- [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?] -->

@@ -9,34 +9,35 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: [João Carvalho] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![João Carvalho\|100](personas/persona1.jpeg)             |
+| **Name**         | João Carvalho                                 |
+| **Age**          | 18                                           |
+| **Occupation**   | College Student                              |
+| **Location**     | Lisboa, Portugal                             |
+| **Goals**        | Specialize in mathematics and apply knowledge to informatics while maintaining an active lifestyle. |
+| **Pain Points**  | Struggles to find people for volleyball and biking due to incompatible schedules and city life. |
+| **Motivation**   | "I want to balance my academic life with my hobbies" |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
 
 ---
-## Persona: [Persona Name] 
-### Summary 
+## Persona: Diogo Bastos  
+### Summary  
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Diogo Bastos](personas/persona1.jpg)       |
+| **Name**         | Diogo Bastos                                 |
+| **Age**          | 22                                          |
+| **Occupation**   | College Student        |
+| **Location**     | Lisboa, Portugal                            |
+| **Goals**        | Complete his thesis and gaining work experience while maintaining an active lifestyle. |
+| **Pain Points**  | Struggles to gather enough people for  certain team sports due to incompatible schedules. |
+| **Motivation**   | "I need a way to find people to play sports with on short notice" |
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+
 
 ---
 
@@ -46,16 +47,20 @@
 
 # Scenarios
 
+## Scenario 1: Diogo looks for people to play volleyball
 
-## Scenario 1: Maria goes on a Museum Tour
+Upon completion of his academic duties, João wants some time to relax and practice his favorite sport, volleyball. However, as his friends don’t share his liking for the sport and the college volleyball club is not on his available time, João uses an app where he can see nearby events and filters those related to volleyball. He finds groups of people who need more players to fill teams, so he joins the activity, goes to the place at the announced time, and plays his favorite sport, extending his social circle to people who share tastes with him.
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+Instead of staying idly at home, João exercises and meets new people who he can contact when he wants to play volleyball again.
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+
+## Scenario 2: Diogo looks for people to play volleyball
+
+After a long day of working on his thesis and his part-time job, Diogo feels like playing volleyball, so he texts his friend group. However, on such short notice, most of them aren’t available, and even with the ones who can, they are still missing some people to have full teams. Diogo then uses an app that allows him to create a volleyball match event. This event is visible to a variety of other users, and the ones interested can quickly join in. Within minutes, the activity that was bound not to happen due to a lack of players is full.
+
+Diogo is able to play one of his favorite sports while meeting his friends and new people who might want to participate in future games. Thus solving his problem on a short term scale but also making the process easier on a wider time frame.
 
 ---
 
