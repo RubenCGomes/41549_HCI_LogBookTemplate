@@ -1,5 +1,8 @@
-# ![Diogo Bastos](personas/persona1.jpg)  
-**Name:** Diogo Bastos  
+**Diogo Bastos**
+
+<img src="persona2.jpg" alt="Diogo Bastos" width="300">
+
+**Name:** Diogo Bastos 
 **Age:** 22  
 **Occupation:**   College student
 **Location:** Lisboa, Portugal  

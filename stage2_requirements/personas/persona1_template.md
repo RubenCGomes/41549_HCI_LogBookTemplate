@@ -1,4 +1,7 @@
-# ![João Carvalho](personas/persona1.jpg)  
+**João Carvalho**
+
+<img src="persona1.jpg" alt="João Carvalho" width="300">
+
 **Name:** João Carvalho  
 **Age:** 18  
 **Occupation:**   College student
