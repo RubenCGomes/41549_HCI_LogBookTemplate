@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![João Carvalho\|100](personas/persona1.jpeg)             |
+| **Photo**        | <img src="personas/persona1.jpg" alt="drawing" width="125"/> |
 | **Name**         | João Carvalho                                 |
 | **Age**          | 18                                           |
 | **Occupation**   | College Student                              |
@@ -28,7 +28,7 @@
 ### Summary  
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Diogo Bastos](personas/persona1.jpg)       |
+| **Photo**        | <img src="personas/persona2.jpg" alt="drawing" width="125"/> |
 | **Name**         | Diogo Bastos                                 |
 | **Age**          | 22                                          |
 | **Occupation**   | College Student        |
