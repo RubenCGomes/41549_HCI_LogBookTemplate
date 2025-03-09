@@ -10,42 +10,41 @@
 - --- 
 ## Task Overview 
 
- **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+### What sports do you usually practice?
+[Enumerate the sports the user practices]
 
-**What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+### Do you find it hard to find people to <PRACTICE-SPORT> with, and if so, what obstacles do you face?
+[Yes/No]
 
-**Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+[Enumerate the obstacles]
+
 
 ---- 
 ## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
 
-**Are there any frustrations or limitations with these tools?** 
+### How do you plan the hobbies with your friends?
+[Describe how they proceed, what technologies they use, etc.]
+
+### Are there any frustrations or limitations with these tools?
 - [Limitation 1] 
 - [Limitation 2] 
 
-**What features do they wish these tools had?** 
+### What features/filters would you like to see implemented? 
 - [Feature 1] 
-- [Feature 2] 
---- 
+- [Feature 2]
+
+---
+
 ## Expectations for a Novel Approach 
 
-**What would an ideal solution look like for them?** 
+### What would an ideal solution look like for them? 
 - [Key expectations] 
 
-**What concerns or hesitations do they have about new approaches?** 
+### What concerns arise when trying to connect to new people?
 - [Concern 1] 
 - [Concern 2] 
 
-**How do they measure success for completing the task efficiently?** 
+### When would you say that the application has fulfilled your goals?
 - [Efficiency metric or criteria] 
 
 --- 
