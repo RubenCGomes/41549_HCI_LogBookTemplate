@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![Diogo Bastos](personas/persona1.jpg)  
 **Name:** Diogo Bastos  
 **Age:** 22  
 **Occupation:**   College student
