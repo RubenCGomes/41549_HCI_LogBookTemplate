@@ -77,8 +77,36 @@ Diogo is able to play one of his favorite sports while meeting his friends and n
 
 ## C.1. Functional requirements
 
+Activity Creation: Users must be able to create activities and describe them with important details (e.g., time, location).
+
+Activity Search: Users must be able to search through all posted activities and access their details.
+
+User Registration: Users must be able to register an account in the app.
+
+Join Activity: Users must be able to join an activity of their interest (if certain conditions are met, e.g., activity not full).
+
+Activity Status: The app must automatically update the status of the activity when the participant threshold is hit.
+
+Participation Cancellation: Users must be able to cancel their participation in activities.
+
+Activity Management: Users must be able to change details of their published activities as well as having the option to cancel them.
 
 ## C.2. Non-functional requirements
+
+Search Optimization: Users should have the possibility of filtering existing activities by various criteria (e.g., location).
+
+Profile Management: Users should be able to have a customizable profile page where they can place information that can be useful to other users.
+
+Performance: The app should execute all tasks in a swift manner in order to improve user experience.
+
+Intuitive Design: The app's interface should be intuitive and easy to navigate for new users.
+
+Security: The app should protect user data.
+
+Intuitive Response: The app should offer immediate feedback on the user's actions.
+
+Compatibility: The app should be compatible with different devices.
+
 
 
 ---
