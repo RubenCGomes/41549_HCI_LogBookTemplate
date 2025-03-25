@@ -77,19 +77,21 @@ Diogo is able to play one of his favorite sports while meeting his friends and n
 
 ## C.1. Functional requirements
 
-Activity Creation: Users must be able to create activities and describe them with important details (e.g., time, location).
+**Activity Creation**: Users must be able to create activities and describe them with important details (e.g., time, location).
 
-Activity Search: Users must be able to search through all posted activities and access their details.
+**Activity Search**: Users must be able to search through all posted activities and access their details.
 
-User Registration: Users must be able to register an account in the app.
+**User Registration**: Users must be able to register an account in the app.
 
-Join Activity: Users must be able to join an activity of their interest (if certain conditions are met, e.g., activity not full).
+**Join Activity**: Users must be able to join an activity of their interest (if certain conditions are met, e.g., activity not full).
 
-Activity Status: The app must automatically update the status of the activity when the participant threshold is hit.
+**Activity Status**: The app must automatically update the status of the activity when the participant threshold is hit.
 
-Participation Cancellation: Users must be able to cancel their participation in activities.
+**Participation Cancellation**: Users must be able to cancel their participation in activities.
 
-Activity Management: Users must be able to change details of their published activities as well as having the option to cancel them.
+**Activity Management**: Users must be able to change details of their published activities as well as having the option to cancel them.
+
+
 
 ## C.2. Non-functional requirements
 

@@ -130,7 +130,7 @@ Down below is the HCI SWOT analysis of the competitor, which summarizes the eval
 | SWOT Element | HCI Focus | Example in UI/UX |
 | ------------ | --------- | ---------------- |
 | **Strenghts** | It tries to simplify the interface to make it not too crowded with information. Has a wide range of activities and a large user base.  | The home page respectively. Groups have hundreds of people in them. |
-| **Weaknesses** | Suffers from too much simplification, which can make a user feel lost at times. A free user is very limited on what he can do, potentially pushing customers away.  | While in another page (i.e. Messages page), the user doesn't know how to go back. |
+| **Weaknesses** | Suffers from too much simplification, which can make a user feel lost at times. A free user is very limited on what he can do, potentially pushing customers away. Too many premium features.  | While in another page (i.e. Messages page), the user doesn't know how to go back. |
 | **Opportunities** | The app could gain a significant boost if they decided to support many more communities. | [N/A] |
 | **Threats** | A potential competitor could offer similar services for free/at a cheaper price. | Browsing other competitor’s applications |
 ---
