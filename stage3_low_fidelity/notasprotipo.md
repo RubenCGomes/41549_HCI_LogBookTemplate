@@ -1,3 +1,5 @@
+Estão apresentadas as notas do processo de elaboração do prototipo de baixa fidelidade e o feedback recolhido.
+
 Tarefas:
 
 Criar:
@@ -84,3 +86,4 @@ notificação
 
 juntar: tira da atividade de futebol
 caso a pessoa não se junte precisamos de outra atividade a que já esteja inscrita
+

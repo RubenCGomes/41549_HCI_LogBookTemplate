@@ -6,10 +6,10 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: ActivCircle
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
+- Student 1: Bruno Santos 113446
+- Student 2; Rúben Gomes 113435
 - Student 3: [Name and Number]
 
 ---
