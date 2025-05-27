@@ -7,6 +7,12 @@
 
 Decidimos fazer um protótipo em papel para tornar mais fácil a esquematização do design e fazer qualquer alteração necessária para além disso o aspeto de protótipo leva o utilizador a sentir um maior conforto a apresentar sugestões na secção de notas está apresentada o sketch da estrutura e informações adicionais sobre a realização do mesmo.
 
+<img src="prototipo.png" alt="prototipo" width="600">
+
+<img src="prototipo2.png" alt="prototipo" width="600">
+
+<img src="prototipo3.png" alt="prototipo" width="600">
+
 ## D.2. Prototype Evaluation
 Para a avaliação do prótotipo elaboramos tarefas que consideramos importantes no contexto do nosso sistema e efetuamos testes em que os utilizadores as executavam analisando o seu comportamento e reações na execução das mesmas seguidas de perguntas pós tarefa para obter feedback especifico por tarefa.
 
