@@ -27,13 +27,13 @@ Clarificar o método de por horas.
 
 # Refined Prototype
 
-Para a melhoria do pritótipo segundo o feedback recebido:´
-Foi alterado o valor default de apresentação das atividades na página minhas atividades para todos para seguir normas comuns neste tipo de sites e seguir o fluuxo lógico todo -> filtrar. 
+Para a melhoria do protótipo segundo o feedback recebido:´
+Foi alterado o valor default de apresentação das atividades na página minhas atividades para todos para seguir normas comuns neste tipo de sites e seguir o fluxo lógico todo -> filtrar. 
 Utilização de cor para dar enfâse a certas opções (vermelho para cancelar, verde para confirmar).
 Alteração para suporte da tecla enter para pesquisa sem necessidade de clicar no simbolo de pesquisa.
 Alteração do posicionamento de certos botões cruciais para melhorar a sua visibilidade.
 Melhoria da apresentação do numero de participantes para um formato (current/maximo) para tornar a apresentação do valor mais intuitiva
-Alteração de statu
+Alteração de status
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
